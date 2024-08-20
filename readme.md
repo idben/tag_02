@@ -8,3 +8,5 @@
 - `tag.json`: 本地標籤資料檔案，用於模擬伺服器端標籤搜尋的回應。
 - `searchHashtags.php`: 對應的 php 程式，由資料庫找出推薦的標籤。
 
+## 展示頁面
+- [GitHub Pages](https://idben.github.io/tag_02/).
